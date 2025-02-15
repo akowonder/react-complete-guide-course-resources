@@ -1,3 +1,6 @@
+//the function below is called a component im react.
+//a component is basically a funtion that return a renderable jsx code
+//jsx enables you to write HTML in js code
 function App() {
   return (
     <div>
