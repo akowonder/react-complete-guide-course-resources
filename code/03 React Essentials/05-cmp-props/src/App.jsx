@@ -21,7 +21,8 @@ function Header() {
     </header>
   );
 }
-
+//props is the way react adds HTML attrbutes and other values to components
+//props is an object that holds the keys and values of attirbutes declared when the component is called
 function CoreConcept(props) {
   return (
     <li>
